@@ -1,4 +1,5 @@
-#include <stdio.h>
-int main(void)
-{printf("jaidev\n");
+#include<stdio.h>
+
+int main (void){
+  printf("jai\n");
 }
